@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "EEPROM_IO.ino",
+    "sketch": "Arduino_EEPROM_IO.ino",
     "port": "COM3"
 }
